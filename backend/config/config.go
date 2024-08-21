@@ -7,5 +7,5 @@ const (
 	RedisDB		 = 0
 
 	//MongoDB Config
-	MongoURI     = "mongodb://localhost:27017/test"
+	MongoURI     = "mongodb://localhost:27017/WorkShopBroBengi"
 )

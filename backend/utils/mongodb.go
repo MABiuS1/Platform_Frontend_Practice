@@ -31,5 +31,5 @@ func InitMongoDB() {
 
 	log.Println("Connected to MongoDB!")
 	MongoClient = client
-	MongoDB = client.Database("test") // Replace with your database name
+	MongoDB = client.Database("WorkShopBroBengi") // Replace with your database name
 }
